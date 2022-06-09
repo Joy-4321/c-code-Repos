@@ -1,0 +1,15 @@
+C:\Users\Joyful-victory\Desktop\C# repos\bin\Debug\net6.0\C# repos.exe
+C:\Users\Joyful-victory\Desktop\C# repos\bin\Debug\net6.0\C# repos.deps.json
+C:\Users\Joyful-victory\Desktop\C# repos\bin\Debug\net6.0\C# repos.runtimeconfig.json
+C:\Users\Joyful-victory\Desktop\C# repos\bin\Debug\net6.0\C# repos.dll
+C:\Users\Joyful-victory\Desktop\C# repos\bin\Debug\net6.0\C# repos.pdb
+C:\Users\Joyful-victory\Desktop\C# repos\obj\Debug\net6.0\C# repos.csproj.AssemblyReference.cache
+C:\Users\Joyful-victory\Desktop\C# repos\obj\Debug\net6.0\C# repos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joyful-victory\Desktop\C# repos\obj\Debug\net6.0\C# repos.AssemblyInfoInputs.cache
+C:\Users\Joyful-victory\Desktop\C# repos\obj\Debug\net6.0\C# repos.AssemblyInfo.cs
+C:\Users\Joyful-victory\Desktop\C# repos\obj\Debug\net6.0\C# repos.csproj.CoreCompileInputs.cache
+C:\Users\Joyful-victory\Desktop\C# repos\obj\Debug\net6.0\C# repos.dll
+C:\Users\Joyful-victory\Desktop\C# repos\obj\Debug\net6.0\refint\C# repos.dll
+C:\Users\Joyful-victory\Desktop\C# repos\obj\Debug\net6.0\C# repos.pdb
+C:\Users\Joyful-victory\Desktop\C# repos\obj\Debug\net6.0\C# repos.genruntimeconfig.cache
+C:\Users\Joyful-victory\Desktop\C# repos\obj\Debug\net6.0\ref\C# repos.dll
